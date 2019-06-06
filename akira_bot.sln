@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "akira_bot", "akira_bot\akira_bot.csproj", "{6989177A-1D9E-4FFE-8BC3-EED059F02B4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libtest", "libtest\libtest.csproj", "{54138AC5-1378-4CA5-B75B-D921C3366DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6989177A-1D9E-4FFE-8BC3-EED059F02B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6989177A-1D9E-4FFE-8BC3-EED059F02B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6989177A-1D9E-4FFE-8BC3-EED059F02B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6989177A-1D9E-4FFE-8BC3-EED059F02B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54138AC5-1378-4CA5-B75B-D921C3366DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54138AC5-1378-4CA5-B75B-D921C3366DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54138AC5-1378-4CA5-B75B-D921C3366DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54138AC5-1378-4CA5-B75B-D921C3366DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D87B0C-79DE-4713-9B25-C0E5BD9DACC9}
+	EndGlobalSection
+EndGlobal
